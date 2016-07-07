@@ -52,6 +52,15 @@ div {
 	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../article-images/Unknown-16.jpeg);
 }
 
+.background_5 {
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../article-images/Unknown-12.jpeg);
+}
+
+.background_6 {
+	background-image: url(../article-images/Unknown-1.jpeg);
+	height: 100vh;
+}
+
 .header_title {
 	width: 100%;
 	position: absolute;
