@@ -219,6 +219,10 @@ div {
 		font-size: 1.3rem;
 	}
 
+	.small_text {
+		font-size: 1.1rem;
+	}
+
 	.header_title_h2 {
 		width: 80%;
 		min-width: 250px;
