@@ -81,7 +81,7 @@ div {
 
 .header_title_h3 {
 	font-size: 1rem;
-	letter-spacing: 0.4rem;
+	letter-spacing: 0.3rem;
 	font-weight: bold;
 	text-transform: uppercase;
 	line-height: 3rem;
@@ -99,7 +99,7 @@ div {
 	color: white;
 	text-align: center;	
 	font-size: 1rem;
-	margin: 0 auto 2rem auto;
+	margin: 0 auto 1.5rem auto;
 }
 
 .section_space_top {
@@ -215,11 +215,16 @@ div {
 	html {
 		font-size: 0.7rem;
 	}
-	/*p {
-		font-size: 0.7rem;
+	p {
+		font-size: 1.3rem;
 	}
 
-	.header_title_h1 {
+	.header_title_h2 {
+		width: 80%;
+		min-width: 320px;
+	}
+
+	/*.header_title_h1 {
 		font-size: 1.6rem;
 	}
 
