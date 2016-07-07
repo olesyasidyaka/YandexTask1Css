@@ -26,7 +26,7 @@ div {
 }
 
 .small_text {
-	font-size: 0.9rem;
+	font-size: 0.8rem;
 }
 
 .section_header {
@@ -224,26 +224,6 @@ div {
 		min-width: 250px;
 	}
 
-	/*.header_title_h1 {
-		font-size: 1.6rem;
-	}
-
-	.header_title_h2 {
-		font-size: 1.2rem;
-		width: 30%;
-		min-width: 220px;
-	}
-
-	.header_title_h3 {
-		font-size: 0.6rem;
-		line-height: 1rem;
-	}
-
-	.header_author {
-		font-size: 0.5rem;
-		line-height: 1rem;
-	}*/
-
 	.columns_wrapper {
 		padding: 0;
 	}
@@ -271,7 +251,7 @@ div {
 
 @media only screen and (min-width: 1200px) {	
 	html {
-		font-size: 1.7vw;
+		font-size: 1.5vw;
 	}
 
 	.columns_wrapper {
